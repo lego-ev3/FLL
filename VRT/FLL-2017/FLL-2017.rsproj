@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CogSimProj>
+  <ProjectInfo ID="b59a7241-0175-4804-98bb-23b8cc6341de" ItemID="7" Type="RobotSimProject" Version="2.6.0" />
+  <ProjectData>
+    <Details Creator="" Company="" Description="" Email="" Website="" />
+    <State CurrentEnvironment="268435456" />
+    <Directories>
+      <Directory DirectoryName="Materials" />
+      <Directory DirectoryName="Meshes" />
+      <Directory DirectoryName="Resources">
+        <Dependency Name="FLL-2017-Tiger-fixed.rres" ItemID="6" Type="Resource" Path="" Link="False" />
+      </Directory>
+      <Directory DirectoryName="Scripts" />
+      <Directory DirectoryName="Textures" />
+      <Directory DirectoryName="Environments">
+        <Dependency Name="HydroDynamics.rsim" ItemID="268435456" Type="Environment" Path="" Link="False" />
+      </Directory>
+      <EV3Directory DirectoryName="test" />
+      <EV3Directory DirectoryName="FLL-2017-Tiger-fixed" />
+    </Directories>
+  </ProjectData>
+</CogSimProj>
